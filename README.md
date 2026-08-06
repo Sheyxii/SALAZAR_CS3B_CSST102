@@ -1,1 +1,1 @@
-# SALAZAR_CS3B_CSST102
+# Basic Machine Learning (CSST102)
